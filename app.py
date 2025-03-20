@@ -117,7 +117,7 @@ def main():
     # Instructions with accessibility considerations
     st.markdown("""
     ### How to use:
-    1. Call the Sarvam TTS API to generate speech
+    1. Call the [Sarvam TTS API](https://docs.sarvam.ai/api-reference-docs/endpoints/text-to-speech) to generate speech
     2. Copy the JSON response containing the base64 audio string
     3. Paste it below and select your preferred output format
     4. Click the Convert button to generate playable audio file(s)
